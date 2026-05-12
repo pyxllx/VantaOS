@@ -1,0 +1,13 @@
+# Optional package ideas for future Calamares toggles.
+# Do not install this full list by default.
+
+mission-center
+mpvpaper
+wallpaper-engine-kde-plugin
+bitwarden
+lact
+gamescope
+onlyoffice-desktopeditors
+signal-desktop
+slack-desktop
+vscodium

@@ -1,0 +1,12 @@
+Source: vantaos-profile-clean
+Section: metapackages
+Priority: optional
+Maintainer: VantaOS Project <maintainers@vantaos.local>
+Standards-Version: 4.6.2
+
+Package: vantaos-profile-clean
+Architecture: all
+Depends: kubuntu-desktop, firefox, plasma-discover, flatpak, keepassxc, plasma-systemmonitor, ufw, gufw, ${misc:Depends}
+Description: VantaOS Clean profile metapackage
+ Essential VantaOS desktop packages without gaming, office, communication, or
+ development extras.

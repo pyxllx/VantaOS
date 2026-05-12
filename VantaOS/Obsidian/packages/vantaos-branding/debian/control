@@ -1,0 +1,12 @@
+Source: vantaos-branding
+Section: misc
+Priority: optional
+Maintainer: VantaOS Project <maintainers@vantaos.local>
+Standards-Version: 4.6.2
+
+Package: vantaos-branding
+Architecture: all
+Depends: plymouth, sddm, ${misc:Depends}
+Description: Branding assets for VantaOS Obsidian
+ Boot splash, login branding, wallpapers, logos, and desktop identity files for
+ VantaOS Obsidian.

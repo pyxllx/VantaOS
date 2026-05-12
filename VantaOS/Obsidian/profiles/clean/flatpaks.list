@@ -1,0 +1,4 @@
+# Clean profile Flatpaks.
+# Keep this minimal. Browser and core apps come from Ubuntu packages first.
+
+com.belmoussaoui.Authenticator

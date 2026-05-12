@@ -1,0 +1,9 @@
+# Optional Flatpak candidates for installer toggles.
+# These are not defaults for any VantaOS Obsidian profile yet.
+
+md.obsidian.Obsidian
+com.slack.Slack
+us.zoom.Zoom
+org.onlyoffice.desktopeditors
+com.bitwarden.desktop
+org.gnome.World.PikaBackup

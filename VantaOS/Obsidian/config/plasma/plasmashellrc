@@ -1,0 +1,7 @@
+[PlasmaViews][Panel 2]
+alignment=132
+floating=1
+panelVisibility=0
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js

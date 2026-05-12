@@ -1,0 +1,13 @@
+Source: vantaos-profile-work
+Section: metapackages
+Priority: optional
+Maintainer: VantaOS Project <maintainers@vantaos.local>
+Standards-Version: 4.6.2
+
+Package: vantaos-profile-work
+Architecture: all
+Depends: vantaos-profile-clean, libreoffice, thunderbird, merkuro, remmina, remmina-plugin-rdp, remmina-plugin-vnc, print-manager, system-config-printer, sane-airscan, obs-studio, timeshift, ${misc:Depends}
+Description: VantaOS Work profile metapackage
+ Productivity, office, backup, remote desktop, printing, scanning, screen
+ recording, and development defaults for VantaOS. VSCodium is delivered by
+ Flatpak in the profile manifest.

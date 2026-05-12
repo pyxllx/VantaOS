@@ -1,0 +1,26 @@
+# VantaOS Work profile
+# Includes Clean plus office, communication, backup, remote access, and creator tools.
+
+libreoffice
+thunderbird
+korganizer
+kalendar
+merkuro
+skanlite
+simple-scan
+print-manager
+system-config-printer
+printer-driver-all
+sane-airscan
+
+remmina
+remmina-plugin-rdp
+remmina-plugin-vnc
+
+obs-studio
+timeshift
+
+hunspell
+hunspell-en-us
+hyphen-en-us
+mythes-en-us

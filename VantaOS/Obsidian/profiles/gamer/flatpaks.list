@@ -1,0 +1,9 @@
+# Gamer profile Flatpaks.
+# These are used where Ubuntu 24.04 packages are missing, stale, or awkward.
+
+com.heroicgameslauncher.hgl
+net.davidotek.pupgui2
+com.valvesoftware.Steam
+com.discordapp.Discord
+com.vscodium.codium
+org.freedesktop.Platform.VulkanLayer.MangoHud

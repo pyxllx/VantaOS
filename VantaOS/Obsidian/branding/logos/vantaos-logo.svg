@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="VantaOS logo">
+  <rect width="512" height="512" rx="104" fill="#080a0f"/>
+  <path d="M104 120h72l80 206 80-206h72L288 392h-64L104 120z" fill="#f3f7ff"/>
+  <path d="M176 120h160l-24 54H200l-24-54z" fill="#7dd3fc"/>
+  <circle cx="256" cy="256" r="184" fill="none" stroke="#1f2a3a" stroke-width="12"/>
+</svg>

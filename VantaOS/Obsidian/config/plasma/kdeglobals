@@ -1,0 +1,17 @@
+[General]
+ColorScheme=VantaObsidian
+Name=Vanta Obsidian
+shadeSortColumn=true
+
+[KDE]
+SingleClick=false
+LookAndFeelPackage=org.kde.breezedark.desktop
+
+[Icons]
+Theme=Papirus-Dark
+
+[WM]
+activeBackground=8,10,15
+activeForeground=243,247,255
+inactiveBackground=22,26,36
+inactiveForeground=155,164,180

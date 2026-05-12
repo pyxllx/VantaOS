@@ -1,0 +1,13 @@
+Source: vantaos-profile-gamer
+Section: metapackages
+Priority: optional
+Maintainer: VantaOS Project <maintainers@vantaos.local>
+Standards-Version: 4.6.2
+
+Package: vantaos-profile-gamer
+Architecture: all
+Depends: vantaos-profile-clean, steam-installer, lutris, wine, winetricks, gamemode, mangohud, vkbasalt, obs-studio, openrgb, corectrl, nvtop, radeontop, ${misc:Depends}
+Description: VantaOS Gamer profile metapackage
+ Gaming and creator defaults for VantaOS, including launchers, overlays, Wine,
+ GPU tools, OpenRGB, and OBS Studio. Discord and VSCodium are delivered by
+ Flatpak in the profile manifest.

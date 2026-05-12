@@ -1,0 +1,26 @@
+# VantaOS Gamer profile
+# Includes Clean plus gaming, creator, GPU, overlay, and launcher tools.
+
+steam-installer
+lutris
+wine
+winetricks
+gamemode
+mangohud
+vkbasalt
+vulkan-tools
+mesa-vulkan-drivers
+libvulkan1
+
+obs-studio
+openrgb
+joystick
+jstest-gtk
+input-remapper
+
+corectrl
+nvtop
+radeontop
+intel-gpu-tools
+lm-sensors
+psensor

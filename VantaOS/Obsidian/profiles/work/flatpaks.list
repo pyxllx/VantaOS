@@ -1,0 +1,4 @@
+# Work profile Flatpaks.
+# Optional collaboration/productivity apps live in profiles/optional/flatpaks.list.
+
+com.vscodium.codium

@@ -1,0 +1,12 @@
+Source: vantaos-default-settings
+Section: misc
+Priority: optional
+Maintainer: VantaOS Project <maintainers@vantaos.local>
+Standards-Version: 4.6.2
+
+Package: vantaos-default-settings
+Architecture: all
+Depends: plasma-desktop, sddm, breeze, breeze-gtk-theme, papirus-icon-theme, ${misc:Depends}
+Description: Default desktop settings for VantaOS Obsidian
+ KDE Plasma, SDDM, theme, wallpaper, launcher, and session defaults for VantaOS
+ Obsidian.
